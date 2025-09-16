@@ -1,6 +1,6 @@
 👋 Hello, I'm Asomiddin!
 
-I'm a passionate Python enthusiast diving deep into the world of backend development. Based on our previous conversations, I've crafted this README to reflect your interests, current learning journey, and aspirations.
+
 
 👀 Interests
 
