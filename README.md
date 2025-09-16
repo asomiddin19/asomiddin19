@@ -19,7 +19,7 @@ I'm a Python enthusiast passionate about backend development and tech exploratio
 
 ## 📫 How to Reach Me
 - **GitHub**: [asomiddin19](https://github.com/asomiddin19)
-- **Email**: [Add your email here]
+- **Email**: [asomiddin0519@gmail.com]
 
 ## 😄 Pronouns
 - He/Him
